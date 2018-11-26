@@ -5,11 +5,14 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>protoc</ToolCommandName>
-    <Version>3.6.1</Version>
+    <Version>3.6.1-beta</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Lazaro Fernandes Lima Suleiman</Authors>
     <Description>dotnet global tool for protoc lib</Description>
     <PackageTags>protoc protobuf</PackageTags>
+    <PackageProjectUrl>https://github.com/lazarofl/dotnetglobal-protoc</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/lazarofl/dotnetglobal-protoc</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/lazarofl/dotnetglobal-protoc/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
