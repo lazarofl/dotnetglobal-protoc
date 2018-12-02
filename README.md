@@ -15,7 +15,7 @@ Windows:
 https://www.nuget.org/packages/protoc
 
 ```sh
-dotnet tool install --global protoc --version 3.6.1-beta
+dotnet tool install --global protoc --version 3.6.1
 ```
 
 to uninstall

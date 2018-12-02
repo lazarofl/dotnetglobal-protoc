@@ -5,7 +5,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>protoc</ToolCommandName>
-    <Version>3.6.1-beta</Version>
+    <Version>3.6.1</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Lazaro Fernandes Lima Suleiman</Authors>
     <Description>dotnet global tool for protoc lib</Description>
